@@ -1,4 +1,15 @@
+.App {
+  font-family: sans-serif;
+}
+
+.Header {
+  text-align: center;
+}
 .Application {
   font-family: sans-serif;
   text-align: center;
+}
+
+.done {
+  text-decoration: line-through;
 }
